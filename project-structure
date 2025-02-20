@@ -1,0 +1,27 @@
+food-donation-platform/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── logo.png
+│   └── manifest.json
+├── src/
+│   ├── components/
+│   │   ├── auth/
+│   │   ├── donation/
+│   │   ├── maps/
+│   │   ├── volunteer/
+│   │   ├── chat/
+│   │   └── common/
+│   ├── context/
+│   ├── services/
+│   ├── utils/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── index.jsx
+│   └── index.css
+├── package.json
+├── tailwind.config.js
+└── postcss.config.js 
